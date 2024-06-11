@@ -6,3 +6,4 @@ This repository contains materials for the Data Analysis Course taught by Scient
 
 - `envs/*.yaml`: Conda environment specifications  
 - `nbks/*.ipynb`: Notebook code for analyses
+- `session2`: Materials for session 2
